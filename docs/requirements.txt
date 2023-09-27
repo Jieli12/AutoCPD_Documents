@@ -140,7 +140,6 @@ twine==4.0.2
 typing_extensions
 tzdata
 unicodedata2
-upgrade==1.0
 urllib3==1.26.13
 wcwidth
 Werkzeug==2.2.2
