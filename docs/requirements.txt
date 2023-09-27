@@ -29,8 +29,6 @@ executing
 fastjsonschema==2.16.2
 flatbuffers==22.11.23
 fonttools
-fsc.util-base==1.2
-fsc.util-extra==1.1
 gast==0.4.0
 gendocs==0.4.0
 google-auth==2.15.0
