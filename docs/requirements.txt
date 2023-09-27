@@ -7,7 +7,6 @@ astroid==2.15.6
 asttokens
 astunparse==1.6.3
 attrs==22.1.0
-autocpd==0.1.5
 Babel==2.12.1
 backcall
 backports.functools-lru-cache
