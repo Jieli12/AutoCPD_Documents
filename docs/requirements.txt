@@ -20,6 +20,7 @@ clipboard==0.0.4
 comm
 contourpy
 cycler
+h5py
 debugpy
 decorator
 dill==0.3.7
