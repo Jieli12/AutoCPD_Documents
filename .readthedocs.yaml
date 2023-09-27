@@ -22,7 +22,8 @@ sphinx:
 # formats:
 #    - pdf
 #    - epub
-
+submodules:
+  include: all
 # Optional but recommended, declare the Python requirements required
 # to build your documentation
 # See https://docs.readthedocs.io/en/stable/guides/reproducible-builds.html
